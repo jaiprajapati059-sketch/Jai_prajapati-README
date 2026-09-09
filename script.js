@@ -45,11 +45,11 @@ window.addEventListener('load', function() {
     }
 
     class Effect {
-        constructor(width, height) {
+        constructor(width, height, imageElement) {
             this.width = width;
             this.height = height;
             this.particlesArray = [];
-            this.image = document.getElementById('imageHeader');
+            this.image = imageElement;
             this.centerX = this.width * 0.5;
             this.centerY = this.height * 0.5;
             this.x = this.centerX - this.image.width * 0.5;
@@ -92,13 +92,10 @@ window.addEventListener('load', function() {
     }
 
     const image = new Image();
-    image.id = 'imageHeader';
-    
-    // REPLACE 'my-photo.png' BELOW WITH THE EXACT NAME OF THE IMAGE YOU UPLOADED IN STEP 1
-    image.src = 'RemoveBG.png';
+    image.src = './RemoveBG.png';
 
     image.onload = function() {
-        const effect = new Effect(canvas.width, canvas.height);
+        const effect = new Effect(canvas.width, canvas.height, image);
         effect.init(ctx);
 
         function animate() {
@@ -108,5 +105,9 @@ window.addEventListener('load', function() {
             requestAnimationFrame(animate);
         }
         animate();
+    };
+
+    image.onerror = function() {
+        console.error("Failed to load image. Make sure 'RemoveBG.png' is placed in the root directory.");
     };
 });
