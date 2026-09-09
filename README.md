@@ -74,31 +74,10 @@ Hi, I'm Jai Prajapati. Driven Computer Engineering professional passionate about
 
 ---
 
-### 🧊 3D Contribution Graph
-
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jaiprajapati059-sketch/Jai_prajapati-README/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiprajapati059-sketch&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiprajapati059-sketch&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiprajapati059-sketch&theme=radial" alt="GitHub Streak" />
 </p>
 
 ---
