@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm <Jai Prajapati></h1>
-<h3 align="center">A passionate developer / engineer from <your-country></h3>
+<h1 align="center">Hi 👋, I'm Jai Prajapati</h1>
+<h3 align="center">A passionate developer / engineer from India</h3>
 
 <!-- Typing Animation Banner / Subtitle -->
 <p align="center">
@@ -10,29 +10,31 @@
 
 ---
 
-### 💫 About Me
-Hi, I'm Jai Prajapati.Driven Computer Engineering professional passionate about designing scalable software solutions, optimizing systems,and solving complex technical challenges.Skilled in full-stack development,algorithms and system architecture with hands-on experience in building efficient applications.
+<p align="center">
+  <a href="https://jaiprajapati059-sketch.github.io/Jai_prajapati-README/" target="_blank">
+    <img src="https://img.shields.io/badge/✨_Interactive_Particle_Effect-Click_To_Play-blueviolet?style=for-the-badge&logo=javascript" alt="Interactive Particle Effect" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[Technology/Language you are learning]**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📃 Portfolio:jaiportfolio-one.vercel.app
-- 📫 How to reach me: **[jaiprajapati059@gmail.com]**
-- ⚡ Fun fact: **[ I started coding seriously because I wanted to build things I wished existed.
-]**
+### 💫 About Me
+Hi, I'm Jai Prajapati. Driven Computer Engineering professional passionate about designing scalable software solutions, optimizing systems, and solving complex technical challenges. Skilled in full-stack development, algorithms, and system architecture with hands-on experience in building efficient applications.
+
+- 🔭 I’m currently working on scalable web applications and algorithm optimization.
+- 🌱 I’m currently expanding my knowledge in System Architecture & Cloud Infrastructure.
+- 👯 I’m looking to collaborate on **Open Source Projects**.
+- 📃 Portfolio: [jaiportfolio-one.vercel.app](https://jaiportfolio-one.vercel.app)
+- 📫 How to reach me: **jaiprajapati059@gmail.com**
+- ⚡ Fun fact: I started coding seriously because I wanted to build things I wished existed.
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/jai-prajapati" target="blank">
+  <a href="https://linkedin.com/in/jai-prajapati" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/imjai_prajapati24" target="blank">
+  <a href="https://instagram.com/imjai_prajapati24" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
@@ -42,7 +44,6 @@ Hi, I'm Jai Prajapati.Driven Computer Engineering professional passionate about 
 ### 🛠 Languages and Tools
 
 <p align="left">
-  <!-- Programming Languages -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -64,27 +65,39 @@ Hi, I'm Jai Prajapati.Driven Computer Engineering professional passionate about 
 </p>
 
 ---
+
 ### 🎯 Skill Radar
 
 <p align="center">
-  <!-- Interactive / Dynamic Skill Radar Chart -->
-  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['C%2B%2B','JavaScript','Python','React','Node%2FAPI','Databases','DSA','Flutter'],datasets:[{label:'Proficiency',data:[85,90,80,88,82,75,85,78],backgroundColor:'rgba(46,160,67,0.3)',borderColor:'rgb(46,160,67)',pointBackgroundColor:'rgb(46,160,67)'}]},options:{scale:{ticks:{beginAtZero:true,max:100,display:false},gridLines:{color:'rgba(255,255,255,0.1)'},angleLines:{color:'rgba(255,255,255,0.1)'},pointLabels:{fontSize:12,fontColor:'%238b949e'}},legend:{display:false}}}" width="48%" alt="Skill Radar" />
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['C%2B%2B','JavaScript','Python','React','Node%2FAPI','Databases','DSA','Flutter'],datasets:[{label:'Proficiency',data:[85,90,80,88,82,75,85,78],backgroundColor:'rgba(46,160,67,0.3)',borderColor:'rgb(46,160,67)',pointBackgroundColor:'rgb(46,160,67)'}]},options:{scale:{ticks:{beginAtZero:true,max:100,display:false},gridLines:{color:'rgba(255,255,255,0.1)'},angleLines:{color:'rgba(255,255,255,0.1)'},pointLabels:{fontSize:12,fontColor:'%238b949e'}},legend:{display:false}}}" width="60%" alt="Skill Radar" />
+</p>
 
-  <p align="center">
+---
 
+### 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jaiprajapati059-sketch/Jai_prajapati-README/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</p>
+
+---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=jaiprajapati059-sketch&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiprajapati059-sketch&layout=compact&theme=radial" alt="Top Languages" width="48%" opacity="1.0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiprajapati059-sketch&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiprajapati059-sketch&theme=radial" alt="GitHub Streak" />
 </p>
 
