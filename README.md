@@ -82,15 +82,9 @@ Hi, I'm Jai Prajapati. Driven Computer Engineering professional passionate about
 
 ---
 
-<!-- Single ASCII Portrait Widget -->
+<!-- Centered Terminal Card Portrait -->
 <p align="center">
-  <a href="https://gitascii.com">
-    <img
-      src="https://gitascii.com/api/jaiprajapati059-sketch/asciiprofile-portrait?v=2"
-      alt="GitAscii Portrait Widget"
-      width="250"
-    />
-  </a>
+  <img src="https://raw.githubusercontent.com/jaiprajapati059-sketch/Jai_prajapati-README/main/RemoveBG.png" width="220" alt="Jai Prajapati Portrait" style="border-radius: 8px; border: 2px solid #00FFFF;" />
 </p>
 
 ---
