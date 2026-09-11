@@ -82,13 +82,6 @@ Hi, I'm Jai Prajapati. Driven Computer Engineering professional passionate about
 
 ---
 
-<!-- Centered Terminal Card Portrait -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jaiprajapati059-sketch/Jai_prajapati-README/main/RemoveBG.png" width="220" alt="Jai Prajapati Portrait" style="border-radius: 8px; border: 2px solid #00FFFF;" />
-</p>
-
----
-
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaiprajapati059-sketch&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
