@@ -82,6 +82,14 @@ Hi, I'm Jai Prajapati. Driven Computer Engineering professional passionate about
 
 ---
 
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/jaiprajapati059-sketch?v=1789136949067"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
+
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaiprajapati059-sketch&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
